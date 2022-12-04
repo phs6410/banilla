@@ -8,6 +8,10 @@ h2 {
     float : right;
 }
 
+h3 {
+    float : right;
+    clear : right;
+}
 
 
 .hidden {
